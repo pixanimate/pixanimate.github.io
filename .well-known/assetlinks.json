@@ -1,0 +1,11 @@
+[
+    {
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.gaft.photoeraser",
+        "sha256_cert_fingerprints":
+          ["0E:4C:B4:7B:C3:5A:93:76:51:96:83:71:00:4E:1F:47:E7:5A:F3:B2:B3:85:2D:07:59:F4:26:0F:DC:5D:15:65"]
+      }
+    }
+  ]
